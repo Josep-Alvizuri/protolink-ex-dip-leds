@@ -1,0 +1,15 @@
+[PROJECT]
+Target=dist\default\debug\protolink-ex-dip-leds-terminal.X.debug.hex
+Processor_Text=PIC18F67K40
+CCSVersion=5.081
+Compiler=PCH
+[Target Data]
+FileList=$linker.c
+[dist\default\debug\protolink-ex-dip-leds-terminal.X.debug.c]
+Type=4
+[mru-list]
+1=dist\default\debug\protolink-ex-dip-leds-terminal.X.debug.c
+[Units]
+Count=1
+1=main
+Link=1

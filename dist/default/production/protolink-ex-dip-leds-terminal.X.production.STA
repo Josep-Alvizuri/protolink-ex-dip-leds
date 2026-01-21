@@ -1,0 +1,60 @@
+
+ROM used:   770/131072 (1%)
+            774/131072 (1%) including unused fragments
+
+            0.2 Average locations per line
+            2.0 Average locations per statement
+
+RAM used:   20/3562 (1%) at main() level
+            25/3562 (1%) worst case
+
+Stack used: 0 worst case (0 in main + 0 for interrupts)
+Stack size: 2561
+
+Lines Stmts  %   Files
+----- ----- ---  -----
+    3     0   0  $linker.c
+   36    14   4  build\default\production\main.c
+  273    10   3  D:\Josep\Proyectos_Galio\protolink\firmware\protolink\excore.h
+ 2223     0   0  ..\Program Files (x86)\PICC\Devices\18F67K40.h
+  107     0   0  ..\Program Files (x86)\PICC\Drivers\bootloader.h
+   37     0   0  ..\Program Files (x86)\PICC\Drivers\stdio.h
+  435     0   0  ..\Program Files (x86)\PICC\Drivers\string.h
+   32     0   0  ..\Program Files (x86)\PICC\Drivers\stddef.h
+   28     0   0  ..\Program Files (x86)\PICC\Drivers\ctype.h
+ 1352   359  94  ..\Program Files (x86)\PICC\Drivers\stdlib.h
+----- -----
+ 4526   383 Total
+
+Page ROM  %  RAM    Vol Diff  Functions:
+---- --- --- ---    --- ----  ----------
+0     42   3    1             @delay_ms1
+0     40   3    0    276  1.6  protolink_io_init
+0    444  29    9    616  3.3  MAIN
+0     30   2    0             @const1244
+0     50   3    4             @PSTRINGCN_115200_31850_31851
+0     40   3    3             @DIV88
+0    120   8    2             @PRINTF_U_115200_31850_31851
+ Inline         0             @cinit1
+
+Program metrics:
+    Functions               2
+    Statements              383
+    Comments                54
+    Volume (V)              1056
+    Difficulty (D)          4.5
+    Effort to implement (E) 4794
+    Time to implement (T)   4 minutes
+    Est Delivered Bugs (B)  0
+    Cyclomatic Complexity   1
+    Maintainability (MI)    102
+
+ Segment     Used  Free
+-----------  ----  ----
+00000-005FE     0  1536  
+00600-00606     4  4  
+00608-0FFFE   766  63226  
+10000-1FFFE     0  65536  
+
+
+

@@ -1,0 +1,67 @@
+_RETURN_
+WDTSTATE
+CCP_1
+CCP_1_LOW
+CCP_1_HIGH
+CCP_2
+CCP_2_LOW
+CCP_2_HIGH
+CCP_3
+CCP_3_LOW
+CCP_3_HIGH
+CCP_4
+CCP_4_LOW
+CCP_4_HIGH
+CCP_5
+CCP_5_LOW
+CCP_5_HIGH
+PWM6OUT
+PWM7OUT
+C1OUT
+C2OUT
+C3OUT
+LVDRDY
+LVDOUT
+MDBIT
+MDOUT
+ADACLR
+rs232_errors
+
+Project Directory:
+    C:\Users\josep\MPLABXProjects\protolink-ex-dip-leds-terminal.X\
+
+Project Files:
+    main.c                                                  [21-Ene.-26 12:20  CRC=D872A938]
+    D:\Josep\Proyectos_Galio\protolink\firmware\protolink\excore.h [20-Ene.-26 18:25  CRC=754758DA]
+    ..\..\..\..\Program Files (x86)\PICC\Devices\18F67K40.h [20-Set.-18 12:34  CRC=2570A75F]
+    ..\..\..\..\Program Files (x86)\PICC\Drivers\bootloader.h [17-Abr.-14 12:29  CRC=10C6F83E]
+    ..\..\..\..\Program Files (x86)\PICC\Drivers\stdio.h    [31-Jul.-07 15:24  CRC=4E4534F4]
+    ..\..\..\..\Program Files (x86)\PICC\Drivers\string.h   [26-Mar.-15 13:34  CRC=C4814297]
+    ..\..\..\..\Program Files (x86)\PICC\Drivers\stddef.h   [05-Set.-14 12:47  CRC=897CEC6C]
+    ..\..\..\..\Program Files (x86)\PICC\Drivers\ctype.h    [03-Ene.-08 15:55  CRC=2D1F019F]
+
+Source signature=7A7308E4
+
+Units:
+    C:\Users\josep\MPLABXProjects\protolink-ex-dip-leds-terminal.X\main
+
+Compiler Settings:
+    Processor:      PIC18F67K40
+    Pointer Size:   16
+    ADC Range:      0-1023
+    Opt Level:      9
+    Short,Int,Long: UNSIGNED: 1,8,16
+    Float,Double:   32,32
+    ICD Provisions: Yes
+    Output file:    Relocatable
+    Compile Mode:       CCS5
+    Predefined symbols:
+       #define __DEBUG 1
+       #define __18F67K40 1
+
+Output Files:
+    XREF file:   build\default\debug\main.xsym
+    Errors:      build\default\debug\main.err
+    Ext Symbols: build\default\debug\main.esym
+    Object:      build\default\debug\main.o
+    Symbols:     build\default\debug\main.osym

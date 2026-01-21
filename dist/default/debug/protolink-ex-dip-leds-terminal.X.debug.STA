@@ -1,0 +1,54 @@
+
+ROM used:   202/131072 (0%)
+            206/131072 (0%) including unused fragments
+
+            0.1 Average locations per line
+            1.4 Average locations per statement
+
+RAM used:   7/3562 (0%) at main() level
+            7/3562 (0%) worst case
+
+Stack used: 0 worst case (0 in main + 0 for interrupts)
+Stack size: 2561
+
+Lines Stmts  %   Files
+----- ----- ---  -----
+    3     0   0  $linker.c
+   11     3   2  build\default\debug\main.c
+  273    10   7  D:\Josep\Proyectos_Galio\protolink\firmware\protolink\excore.h
+ 2223     0   0  ..\Program Files (x86)\PICC\Devices\18F67K40.h
+  107     0   0  ..\Program Files (x86)\PICC\Drivers\bootloader.h
+   37     0   0  ..\Program Files (x86)\PICC\Drivers\stdio.h
+  435   129  91  ..\Program Files (x86)\PICC\Drivers\string.h
+   32     0   0  ..\Program Files (x86)\PICC\Drivers\stddef.h
+   28     0   0  ..\Program Files (x86)\PICC\Drivers\ctype.h
+----- -----
+ 3149   142 Total
+
+Page ROM  %  RAM    Vol Diff  Functions:
+---- --- --- ---    --- ----  ----------
+0     40  10    0    276  1.6  protolink_io_init
+0    158  39    0     32  1.2  MAIN
+ Inline         0             @cinit1
+
+Program metrics:
+    Functions               2
+    Statements              142
+    Comments                44
+    Volume (V)              350
+    Difficulty (D)          3.1
+    Effort to implement (E) 1077
+    Time to implement (T)   1 minutes
+    Est Delivered Bugs (B)  0
+    Cyclomatic Complexity   1
+    Maintainability (MI)    117
+
+ Segment     Used  Free
+-----------  ----  ----
+00000-005FE     0  1536  
+00600-00606     4  4  
+00608-0FFFE   198  63794  
+10000-1FFFE     0  65536  
+
+
+
