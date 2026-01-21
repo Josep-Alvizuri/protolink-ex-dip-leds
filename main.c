@@ -26,8 +26,8 @@ void main(void) {
         // Mensaje por UART
         // Formato: DIP=3210 (en binario)
         printf("DIP=%u%u%u%u | LED=%u%u%u%u\r\n", 
-                (int)s3, (int)s2, (int)s1, (int)s0, 
-                (int)s3, (int)s2, (int)s1, (int)s0);
+                (int)s0, (int)s1, (int)s2, (int)s3, 
+                (int)s0, (int)s1, (int)s2, (int)s3);
 
         //Pollin de 200ms
         delay_ms(200);

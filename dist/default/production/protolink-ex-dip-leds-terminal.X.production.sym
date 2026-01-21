@@ -80,7 +80,7 @@ Project Directory:
     C:\Users\josep\MPLABXProjects\protolink-ex-dip-leds-terminal.X\
 
 Project Files:
-    build\default\production\main.c (link)                  [21-Ene.-26 12:43  CRC=CB82A8FB]
+    build\default\production\main.c (link)                  [21-Ene.-26 16:23  CRC=E1BAE292]
     D:\Josep\Proyectos_Galio\protolink\firmware\protolink\excore.h [20-Ene.-26 18:25  CRC=754758DA]
     ..\Program Files (x86)\PICC\Devices\18F67K40.h          [20-Set.-18 12:34  CRC=2570A75F]
     ..\Program Files (x86)\PICC\Drivers\bootloader.h        [17-Abr.-14 12:29  CRC=10C6F83E]
@@ -90,10 +90,10 @@ Project Files:
     ..\Program Files (x86)\PICC\Drivers\ctype.h             [03-Ene.-08 15:55  CRC=2D1F019F]
     ..\Program Files (x86)\PICC\Drivers\stdlib.h            [29-Jun.-16 10:34  CRC=7E9CC16B]
 
-Source signature=3D9D89DE
+Source signature=53D5C375
 Program memory checksum=0000
 Program memory CRC=0000
-Hex file CRC=60C0
+Hex file CRC=30FF
 
 Units:
     C:\Users\josep\MPLABXProjects\protolink-ex-dip-leds-terminal.X\main

@@ -1,4 +1,4 @@
-CCS PCH C Compiler, Version 5.081, 13314               21-Ene.-26 12:43
+CCS PCH C Compiler, Version 5.081, 13314               21-Ene.-26 16:23
 
                Filename:   C:\Users\josep\MPLABXProjects\protolink-ex-dip-leds-terminal.X\dist\default\production\protolink-ex-dip-leds-terminal.X.production.lst
 
@@ -3092,35 +3092,35 @@ CCS PCH C Compiler, Version 5.081, 13314               21-Ene.-26 12:43
 ....................  
 ....................  
 00834:  MOVLW  00
-00836:  BTFSC  0B.3
+00836:  BTFSC  0B.0
 00838:  MOVLW  01
 0083A:  MOVWF  0C
 0083C:  MOVLW  00
-0083E:  BTFSC  0B.2
+0083E:  BTFSC  0B.1
 00840:  MOVLW  01
 00842:  MOVWF  0D
 00844:  MOVLW  00
-00846:  BTFSC  0B.1
+00846:  BTFSC  0B.2
 00848:  MOVLW  01
 0084A:  MOVWF  0E
 0084C:  MOVLW  00
-0084E:  BTFSC  0B.0
+0084E:  BTFSC  0B.3
 00850:  MOVLW  01
 00852:  MOVWF  0F
 00854:  MOVLW  00
-00856:  BTFSC  0B.3
+00856:  BTFSC  0B.0
 00858:  MOVLW  01
 0085A:  MOVWF  10
 0085C:  MOVLW  00
-0085E:  BTFSC  0B.2
+0085E:  BTFSC  0B.1
 00860:  MOVLW  01
 00862:  MOVWF  11
 00864:  MOVLW  00
-00866:  BTFSC  0B.1
+00866:  BTFSC  0B.2
 00868:  MOVLW  01
 0086A:  MOVWF  12
 0086C:  MOVLW  00
-0086E:  BTFSC  0B.0
+0086E:  BTFSC  0B.3
 00870:  MOVLW  01
 00872:  MOVWF  13
 00874:  MOVLW  08
